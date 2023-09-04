@@ -1,4 +1,5 @@
-# Project Title: [Kasper - One Page Creative PSD Template] SOURCE: <https://www.graphberry.com/item/kasper-one-page-psd-template>
+# Project Title: [Kasper - One Page Creative PSD Template] 
+SOURCE: <https://www.graphberry.com/item/kasper-one-page-psd-template>
 
 ## Project Description
 
@@ -19,5 +20,5 @@ This repository contains my second website project, which I developed using only
 - HTML5
 - CSS3
 
-## TO EXPLORE THE WEBSITE : 
+## TO EXPLORE THE WEBSITE : <https://abdelkrimou.github.io/kasper-design/>
 
